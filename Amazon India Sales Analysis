@@ -1,0 +1,36 @@
+# Amazon India Sales Analysis
+
+## Project Overview
+This project analyzes Amazon India sales data to explore sales performance, order trends, and business patterns using Microsoft Excel and Power BI.
+
+## Tools & Technologies
+- Microsoft Excel
+- Power Query
+- PivotTables
+- Descriptive Statistics
+- Sales Forecasting
+- Power BI
+
+## Analysis Areas
+- Sales Performance and Monthly Trends
+- Order Status and Fulfillment Methods
+- Buyer Type Analysis
+- Product Category and Size Analysis
+- Shipping Service Analysis
+- Average Order Value (AOV)
+- Sales Forecasting
+
+## Key Findings
+- Sales declined by approximately 23% from April to June.
+- Amazon fulfillment generated higher total sales than Merchant fulfillment.
+- Consumer orders accounted for the vast majority of sales.
+- Expedited shipping contributed more sales than Standard shipping.
+- Sales performance varied across product categories and sizes.
+
+## Project Files
+- **Excel Workbook:** Data preparation, analysis, PivotTables, and forecasting.
+- **PDF Report:** Analytical approach, key findings, business implications, recommendations, and limitations.
+- **Power BI Dashboard:** Interactive visualization of sales performance and order trends.
+
+## Objective
+To transform raw sales data into meaningful insights and support data-driven business understanding.
